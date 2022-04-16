@@ -32,7 +32,7 @@ public class sum_3 {
         }
 
 
-// решение без
+// самое простое решение
 /*
     public static void main(String[] args) {
         int a = 0;
